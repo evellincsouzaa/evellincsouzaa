@@ -1,0 +1,42 @@
+.steff {
+    height: 189.5px;
+    background-image: url(./img/bannner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: -8px;
+    margin-top: -8px;
+}
+
+.menu {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -5em; 
+}
+
+ul li {
+    font-size: 25px;
+    padding: 20px;
+    display: inline;
+    list-style-type: none;
+    font-family:monospace;
+    margin-left: 45px;
+    margin-right: 75px;
+}
+
+a {
+    color: #7c4334;
+    text-decoration: none;
+}
+
+.bit {
+    width: 1518px;
+    margin-top: 15px;
+    margin-right: -8px;
+    margin-left: -8px;
+}
+
+
+
+
