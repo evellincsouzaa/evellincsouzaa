@@ -13,7 +13,7 @@
 <body>
 
 
-    <img class="steff" src="banner.jpg" width="1510px">
+    <img class="steff" src="banner.jpg " width="1510px">
     <div>
     <div class="menu">
         <ul>
